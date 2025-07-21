@@ -1,16 +1,13 @@
 # 💼 Employee Salary Prediction using Machine Learning
 
-This project predicts whether an employee earns more than ₹50K based on features such as age, education, hours worked, and more. Built as part of my AICTE-Edunet Foundation Internship, it involves the full machine learning pipeline — from data preprocessing to model comparison and Streamlit app deployment.
+This project predicts whether an employee earns more than ₹50K based on features such as age, education, hours worked, and more. It involves the full machine learning pipeline — from data preprocessing to model comparison and Streamlit app deployment.
 
 ---
 
 ## 📌 Overview
 
-This project was initiated as part of my AI internship with **Edunet Foundation** under the **IBM SkillsBuild Program (June–July 2025)**.
-
 The goal is to build a machine learning model that can predict whether an individual's salary is above or below 50K based on demographic and work-related features.
 
----
 
 ## 🧠 What’s Done So Far
 
@@ -26,7 +23,6 @@ The goal is to build a machine learning model that can predict whether an indivi
 ✅ Built a Streamlit app for live prediction  
 ✅ Deployed app for public use 
 
----
 
 ## 🚀 Project Overview
 
@@ -36,7 +32,6 @@ This ML-powered web app allows users to input various employee attributes and pr
 📦 **Frameworks:** Python, Scikit-learn, XGBoost, Streamlit  
 🧠 **Model:** XGBoost (best performing), others for comparison
 
----
 
 ## 🧪 ML Models Used
 
@@ -48,14 +43,12 @@ This ML-powered web app allows users to input various employee attributes and pr
 | Random Forest        | 86.1%     |
 | **XGBoost** ✅        | **87.5%** |
 
----
 
 ## 📊 Dataset Used
 
 - Adapted version of the **UCI Adult Census Income** dataset  
 - 48,842 rows, 15 columns (after cleaning)
 
----
 
 ## 📊 Visual Comparison
 
@@ -63,30 +56,6 @@ This ML-powered web app allows users to input various employee attributes and pr
 
 ![Model Comparison](model_comparison.png)
 
----
-
-## 🌐 Live App Demo
-
-👉 [Try it on Streamlit](https://employee-salary-prediction-amanbasu20.streamlit.app/)  
-
----
-
-## 🖥️ How to Run This Project Locally
-
-### 1. Clone the repository
-
-git clone https://github.com/AmanBasu20/employee-salary-prediction.git
-cd employee-salary-prediction
-
-### 2. Install the dependencies
-
-pip install -r requirements.txt
-
-### 3. 3. Run the Streamlit app
-
-streamlit run app.py
-
----
 
 ## 📁 Project Structure
 
@@ -99,21 +68,13 @@ employee-salary-prediction/
 ### ├── model_comparison.png         # Accuracy chart
 ### └── README.md                    # Project documentation
 
----
-
 ## 🙋‍♂️ About Me
 
-Aman Basu
-B.Tech CSE (AI & ML) | Intern @ AICTE x Edunet | Aspiring AI/Quant Researcher
-
----
+Aditi Chauhan 
+B.Tech CSE (Data Science ) 
 
 ## 📬 Contact
 
-📧 amanbasu20@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/amanbasu20/)  
-🔗 [GitHub](https://github.com/AmanBasu20)
-
----
-
-*Learning in public. Built with curiosity. 🚀*
+📧 aditichauhan7120@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/aditi-chauhan-366239331)  
+🔗 [GitHub](https://github.com/adiTEAAA)
